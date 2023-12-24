@@ -1,0 +1,19 @@
+{
+    "id": "wallmaterialsandvision",
+    "name": "Wall Materials and Vision",
+    "title": "Wall Materials and Vision",
+    "description": "Assign materials to walls.  Vision improvements to see thru some walls.",
+    "version": "0.0.1",
+    "authors": [
+        {
+            "name": "Aaron Auseth"
+        }
+    ],
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "9",
+    "compatibility": {
+        "minimum": 11,
+        "verified": "11.315",
+        "maximum": 11
+    }
+  }
